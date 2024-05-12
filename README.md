@@ -3,7 +3,7 @@
 **Project Title:** HR Analytics: Unveiling Insights from Employee Data
 
 **Project Description:**
-In this SQL project, I will delve into HR analytics using a comprehensive dataset containing various attributes of employees. Our objective is to extract valuable insights to optimize workforce management strategies, enhance employee satisfaction, and reduce attrition rates.
+In this SQL project, I will delve into HR analytics using a comprehensive dataset containing various attributes of employees. My objective is to extract valuable insights to optimize workforce management strategies, enhance employee satisfaction, and reduce attrition rates.
 
 **Project Components:**
 
